@@ -1,2 +1,3 @@
-# coursera_nlangp-001_PA1
-Natural language processing course from Columbia University. Programming Assignment 1 codes.
+# NLP Programming Assignment 1: Hidden Markov Models
+
+Link to the assignment description: https://spark-public.s3.amazonaws.com/nlangp/assignments/h1-p.4.pdf
